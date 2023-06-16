@@ -1,0 +1,69 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #f78fb3;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: white;
+    color: #f78fb3;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-calcados .nav-link.active:hover {
+    color: white;
+}
+
+.navbar-toggler {
+    background-color: #ffffff;
+}
+
+.section-title {
+    font-family: Pacifico, cursive;
+}
+
+.carousel-inner {
+    align-items: center;
+}
+
+#sobre-a-loja, #calcados {
+    background-color: #f78fb328;
+}
+
+.text-colored {
+    color: #f78fb3;
+}
+
+.nav-calcados .nav-link.active,
+#fale-conosco button {
+    background-color: #f78fb3;
+    color: white;
+}
+
+.nav-calcados .nav-link:hover {
+    color: #f78fb3;
+}
+
+textarea {
+    resize: none;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #f78fb367;
+    padding: 16px 0;
+    font-size: small;
+    text-align: center;
+}
